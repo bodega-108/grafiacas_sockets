@@ -1,0 +1,24 @@
+{
+  "name": "sockets_graficas",
+  "version": "1.0.0",
+  "description": "Api con sockets para estar atentos a cambios realtime en grafiacas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodega-108/grafiacas_sockets.git"
+  },
+  "keywords": [
+    "sockets",
+    "node",
+    "angular"
+  ],
+  "author": "Eduardo Quintero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bodega-108/grafiacas_sockets/issues"
+  },
+  "homepage": "https://github.com/bodega-108/grafiacas_sockets#readme"
+}
